@@ -9,6 +9,7 @@ var config = {
         "Your Are Sunshine To My Dark Life",
         "You Are The Perfect Girl I Need",
         "You Are The Best Person I Ever Met <3",
+        "Thanks For Coming In My Life.",
         "Happy Friendship Day my Best Friend......."
        
     ],
