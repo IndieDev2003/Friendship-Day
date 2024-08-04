@@ -90,3 +90,6 @@ footer{
     align-items: center;
     justify-content: center;
 }
+footer h2>span{
+    color:lavender;
+}
