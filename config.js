@@ -3,7 +3,12 @@ var config = {
     lines: [
         "Dear Aashi,",
         "The Day When We Started Talking I Never Knew That You Will Mean To So Much",
-        "On That I Day Never Knew That We Fall In LOve With Each other",
+        "On That I Day Never Knew That We Fall In Love With Each other",
+        "On That Day I Never Knew We Are We Will Be In Relationship ",
+        "Thanks For Coming In my Life",
+        "Your Are Sunshine To My Dark Life",
+        "You Are The Perfect Girl I Need",
+        "You Are The Best Person I Ever Met <3"
        
     ],
     date:"2023-07-07",
