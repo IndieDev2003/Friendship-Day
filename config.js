@@ -8,7 +8,8 @@ var config = {
         "Thanks For Coming In my Life",
         "Your Are Sunshine To My Dark Life",
         "You Are The Perfect Girl I Need",
-        "You Are The Best Person I Ever Met <3"
+        "You Are The Best Person I Ever Met <3",
+        "Happy Friendship Day my Best Friend......."
        
     ],
     date:"2023-07-07",
