@@ -52,6 +52,6 @@ function timeElapse(date) {
     }
     seconds = Math.floor(seconds % 60);
     seconds = (seconds + "").replace(/\.\d*/, "");
-    var result = "For <span class=\"digit\">" + days + "</span> days, <span class=\"digit\">" + hours + "</span> hours, <span class=\"digit\">" + minutes + "</span> minutes, and <span class=\"digit\">" + seconds + "</span> seconds";
+    var result = "From <span class=\"digit\">" + days + "</span> days, <span class=\"digit\">" + hours + "</span> hours, <span class=\"digit\">" + minutes + "</span> minutes, and <span class=\"digit\">" + seconds + "</span> seconds";
     $("#clock").html(result);
 }
